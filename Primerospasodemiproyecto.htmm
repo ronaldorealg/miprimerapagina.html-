@@ -40,3 +40,89 @@ document.write("Los ancianos nacieron en el año");
 document.write("<br>"):
 document.write(2022-70);
 </script>
+
+Los HABITANTES de bajos recursos son:
+ 
+<h1>Documento número 228</h1>
+<br>
+<br>
+<h1>Adolfo Meisel Roca<br>
+María Aguilera</h1>
+
+AUTOR O EDITOR
+
+<br>
+<br>
+<br>
+Magangué es la cuarta ciudad intermedia no capital más poblada de la región Caribe y un puerto fluvial de importancia nacional.
+Este documento describe las características del capital humano, la calidad de vida de sus habitantes y las finanzas públicas municipales. Los resultados muestran una alta  pobreza asociada a bajo niveles de educación, alta informalidad y deficientes servicios públicos y
+estado de la vivienda. A su vez, el desempeño fiscal del municipio fue bajo e incluso crítico en tres años (2007, 2008 y 2011). Las finanzas públicas dependen en un gran porcentaje de las transferencias nacionales, ya que sus recursos propios son escasos. Sin embargo, se percibe la mejora desde el 2012 
+en varios indicadores del desempeño fiscal, como la capacidad administrativa y fiscal. La economía del municipio, basada en el comercio y el transporte, ha perdido dinamismo y predominan las actividades económicas informales.
+<br>
+<br>
+
+
+<meta charset:"UTF-8">
+
+
+
+<script>
+ document.write("los años promedios calculados  son : ");
+ document.write("<br>");
+document.write("La suma de edades de los niños es...");
+document.write("<br>")
+document.write((22));
+document.write("<br>");
+document.write("Los niños nacieron en el año...");
+document.write ("<br>");
+document.write(2022-23);
+document.write("<br>");
+document.write("Los jovenes nacieron en el año...");
+document.write("<br>");
+document.write(2022-27);
+document.write("<br>");
+document.write("Los ancianos nacieron en el año");
+document.write("<br>");
+document.write(2022-70);</script>
+
+<br><br><br>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+<h1>DATOS PROMEDIOS</h1>
+
+<br>
+<script> 
+
+var anho = 2022;
+
+
+document.write("Los niños se aproximan a:" +(anho-2007) + "años");
+document.write("<br>");
+document.write("<br>");
+
+document.write("Los jovenes se aproximan a:"  +(anho-1994) + "años");
+document.write ("<br>");
+document.write("<br>");
+
+document.write("Los ancianos  se aproximan a:"    +(anho-1945) + "años");
+document.write("<br>");
+document.write("<br>");
+
+document.write("Los muertos  se aproximan a:"   +(anho- "?" ) + "años");</script>
+
+anho = 2023
+
+
+<br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+03:08 p.m. lunes, 11 de abril de 2022
+
