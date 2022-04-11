@@ -20,3 +20,23 @@ INGRESA A NUESTRA PLATAFORMA EN FACEBOOK: :<a href="https://www.facebook.com/990
 <script>
 alert("Diseños Web o progración web RONALDO AVILA");
 </script>
+<meta charset:"UTF-8">
+
+<script> 
+
+document.write("La suma de edades de los niños es...");
+document.write("<br>")
+document.write((20+25+15));
+document.write("<br>");
+document.write("Los niños nacieron en el año...");
+document.write("<br>"):
+document.write(2022-23);
+document.write("<br>");
+document.write("Los jovenes nacieron en el año...");
+document.write("<br>"):
+document.write(2022-27);
+document.write("<br>");
+document.write("Los ancianos nacieron en el año");
+document.write("<br>"):
+document.write(2022-70);
+</script>
